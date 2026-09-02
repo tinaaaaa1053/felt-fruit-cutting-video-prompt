@@ -1,0 +1,4 @@
+interface:
+  display_name: "Felt Fruit Cutting Prompt"
+  short_description: "为任意微缩羊毛毡水果生成语义一致的中英文ASMR视频提示词"
+  default_prompt: "Use $felt-fruit-cutting-video-prompt to create Chinese and English ASMR video prompts for slicing a miniature needle-felted kiwi."
